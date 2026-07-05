@@ -1,0 +1,6 @@
+{
+  "name": "Dadi ka Nuskha",
+  "description": "100% Pure, Traditional Sarson (Mustard) Hair Oil from Lahore, Pakistan. Dadi ka asal nuskha, khalis sarson ka tel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
